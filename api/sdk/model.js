@@ -11,7 +11,7 @@ function denormalized(data){
     x1 = (data[0] * 42.773) + 10.33017006
     x2 = (data[1] * 29.9412) + 8.936247191
     x3 = (data[2] * 94.8964) + 8.887376673
-    return [x, y, z]
+    return [x1, x2, x3]
 }
 
 
